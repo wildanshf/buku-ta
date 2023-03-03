@@ -1,0 +1,38 @@
+\chapter{PENDAHULUAN}
+\label{chap:pendahuluan}
+
+\section{Latar Belakang}
+\label{sec:latarbelakang}
+
+Jumlah kendaraan bermotor di Indonesia mencapai lebih dari 136 juta unit pada tahun 2020. Data itu terangkum dalam catatan Badan Pusat Statistik (BPS) \cite{DataKendaraanBermotor}. Jumlah kendaraan naik sekitar tujuh persen sejak tahun 2018. Pada tahun 2020, jumlah kendaraan naik bertambah 2.520.439 unit atau meningkat 1,8 persen menjadi 136.137.451 unit dari tahun sebelumnya sebanyak 133.617.012 unit. Jumlah kendaraan di tahun 2019 naik 5,6 persen dari tahun 2018 sejumlah 126.508.776 unit. Kenaikan jumlah kendaraan tersebut menjadi tantangan tersendiri khususnya bagi pihak kepolisian Indonesia dalam menciptakan kondisi lalu lintas yang aman dan nyaman.
+
+Sejumlah besar kamera pengintai digunakan di sudut-sudut jalan maupun persimpangan untuk pemantauan lalu lintas. Adanya kamera pengintai memudahkan staf yang bertugas dalam melakukan pemantauan tersebut. Saat ini, sistem pemantauan lalu lintas sebagian besar berbasis video real-time dan masih membutuhkan manusia untuk mengawasinya. Banyaknya data vidio yang harus dipantau maupun kualitas vidio yang kurang baik akan menyulitkan staf pengawas yang bertugas, sehingga proses pemantauan lalu lintas akan terhambat. Selain itu, penggunaan kamera pengintai juga kurang efektif apabila digunakan untuk mengawasi banyak lokasi. Satu buah kamera pengintai hanya bisa digunakan untuk mengawasi 1 titik lokasi.
+
+Dalam beberapa tahun terakhir, model \emph{deep learning} berbasis \emph{Convolutional Neural Network} (CNN) telah mencapai kesuksesan besar di bidang visi komputer. Salah satunya adalah sistem reidentifikasi mobil. Dengan memanfaatkan \emph{deep learning}, proses pelacakan mobil dapat dilakukan secara otomatis. Teknologi reidentifikasi mobil bekerja dengan cara mengambil citra mobil di beberapa kamera di bawah perspektif pemantauan tertentu. Citra tersebut lalu diproses oleh sistem yang mengekstrak fitur dan mencocokkannya untuk menentukan apakah citra mobil yang diberikan adalah mobil yang sama. Pada saat yang sama, perkembangan \emph{Unmanned Aerial Vehicle} juga semakin pesat. \emph{Unmanned Aerial Vehicle} atau yang selanjutnya disebut UAV merupakan jenis pesawat terbang yang dikendalikan alat sistem kendali jarak jauh lewat gelombang radio. Pemanfaatan UAV telah memberi banyak manfaat di berbagai sektor. Namun, sistem reidentifikasi mobil berbasis UAV masih jarang dipelajari. Dengan memanfaatkan UAV, pemantauan banyak lokasi akan lebih efektif. Satu buah UAV dapat digunakan untuk memantau banyak lokasi, dibandingkan dengan kamera pengintai yang membutuhkan pemasangan banyak kamera di beberapa titik lokasi pemantauan.
+
+Pada penelitian ini, penulis ingin membuat model CNN yang dapat melakukan reidentifikasi mobil. Dataset yang akan digunakan pada penelitian ini diambil menggunakan UAV. Penulis berharap dengan adanya penelitian ini, penelitian tentang teknologi reidentifikasi mobil dengan memanfaatkan UAV akan lebih banyak dipelajari oleh para peneliti. Penulis juga berharap teknologi reidentifikasi mobil dapat memudahkan staf yang bertugas dalam pemantauan lalu lintas khususnya dalam memantau, melacak, maupun mencari kendaraan.
+
+\section{Permasalahan}
+\label{sec:permasalahan}
+
+Berdasarkan hal yang telah dipaparkan di latar belakang, ditarik suatu permasalahan untuk judul ini yaitu sistem pengawasan berbasis video yang masih melibatkan pengawasan manusia secara manual masih kurang efektif. Banyaknya data vidio yang harus dipantau maupun kualitas vidio yang kurang baik akan menyulitkan staf pengawas yang bertugas, sehingga proses pemantauan lalu lintas khususnya dalam memantau, melacak, maupun mencari kendaraan akan terhambat. Selain itu, penggunaan kamera pengintai juga kurang efektif apabila digunakan untuk mengawasi banyak lokasi. Satu buah kamera pengintai hanya bisa digunakan untuk mengawasi 1 titik lokasi.
+
+\section{Batasan Masalah}
+\label{sec:batasanmasalah}
+
+Batasan-batasan permasalahan yang diangkat pada penelitian ini adalah:
+\begin{enumerate}[nolistsep]
+    \item Penulis hanya mengembangkan model yang dapat melakukan reidentifikasi mobil. Model yang dibuat tidak diaplikasikan kepada sensor kamera.
+    \item Model reidentifikasi dibuat menggunakan metode \emph{Convolutional Neural Network}.
+    \item Dataset yang digunakan pada penelitian ini adalah dataset Vehicle Re-identification for Aerial Image (VRAI).
+\end{enumerate}
+
+\section{Tujuan}
+\label{sec:Tujuan}
+
+Tujuan dari penelitian ini adalah untuk menghasilkan model \emph{deep learning} yang dapat melakukan reidentifikasi mobil berbasis \emph{Convolutional Neural Network} (CNN). Model reidentifikasi dibuat dengan dataset yang menggunakan \textit{Unmanned Aerial Vehicle} (UAV) sebagai alat pengambil citra.
+
+\section{Manfaat}
+\label{sec:Manfaat}
+
+Manfaat dari penelitian ini yaitu model reidentifikasi mobil dapat diimplementasikan pada sistem pemantauan lalu lintas sehingga bisa menjadi solusi permasalahan pada pemantauan lalu lintas.  Sistem reidentifikasi mobil diharapkan dapat mempermudah proses pemantauan lalu lintas khususnya dalam memantau, melacak, maupun mencari kendaraan. Selain itu, penggunaan \emph{Unmanned Aerial Vehicle} (UAV) juga memberi manfaat apabila diimplementasikan pada sistem pemantauan. Pemantauan banyak lokasi akan lebih efektif, sebagai contoh satu buah \emph{Unmanned Aerial Vehicle} (UAV) dapat digunakan untuk memantau banyak lokasi.

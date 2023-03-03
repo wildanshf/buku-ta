@@ -1,0 +1,323 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{DataKendaraanBermotor}{misc}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{title}{Perkembangan Jumlah Kendaraan Bermotor Menurut Jenis (Unit), 2018-2020}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.bps.go.id/indicator/17/57/1/jumlah-kendaraan-bermotor.html
+      \endverb
+      \verb{url}
+      \verb https://www.bps.go.id/indicator/17/57/1/jumlah-kendaraan-bermotor.html
+      \endverb
+    \endentry
+    \entry{Xu2022}{article}{}
+      \name{author}{6}{}{%
+        {{hash=9d78044accf6ec735c559c11ed56bda2}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Dawai},
+           giveni={D\bibinitperiod}}}%
+        {{hash=c4fb9624ff2b5cacef3c9614adf0f36b}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Yunfan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=d1a69b66a50f73d21858f0425b686c1e}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Liehuang},
+           giveni={L\bibinitperiod}}}%
+        {{hash=7424997ff19ec42eb507da7981c8e318}{%
+           family={Dai},
+           familyi={D\bibinitperiod},
+           given={Cheng},
+           giveni={C\bibinitperiod}}}%
+        {{hash=4cb1008031f47497f33f868c896d0119}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Tianxin},
+           giveni={T\bibinitperiod}}}%
+        {{hash=c16e592968201fed7413e6fa85a80d4d}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Hindawi}%
+      }
+      \strng{namehash}{84080e40951cec87312c6666080a7d14}
+      \strng{fullhash}{dfba5147e31579d187db0cab18959464}
+      \strng{bibnamehash}{dfba5147e31579d187db0cab18959464}
+      \strng{authorbibnamehash}{dfba5147e31579d187db0cab18959464}
+      \strng{authornamehash}{84080e40951cec87312c6666080a7d14}
+      \strng{authorfullhash}{dfba5147e31579d187db0cab18959464}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Security and Communication Networks}
+      \field{month}{5}
+      \field{title}{Vehicle Re-Identification System Based on Appearance Features}
+      \field{volume}{2022}
+      \field{year}{2022}
+      \field{pages}{1833362}
+      \range{pages}{1}
+    \endentry
+    \entry{Wang2019vehicle}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=f403b14ecb6cad3a3e124785b07b5a3a}{%
+           family={Peng},
+           familyi={P\bibinitperiod},
+           given={Wang},
+           giveni={W\bibinitperiod}}}%
+        {{hash=9b9b0f2e9268a68b04ffd27cf84e6a5b}{%
+           family={Bingliang},
+           familyi={B\bibinitperiod},
+           given={Jiao},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b1f5d85067635d59dd4bd60235b83b7d}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=356dd68b4cf05f83c6ffce99da421888}{%
+           family={Shizhou},
+           familyi={S\bibinitperiod},
+           given={Zhang},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=c1d89b1112687aab0def500c9ed1fd46}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=4a2acb999e48df696336fb05484099c2}{%
+           family={Yanning},
+           familyi={Y\bibinitperiod},
+           given={Zhang},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{721c0b63d7e4e431f2d191598390847b}
+      \strng{fullhash}{71c7188b9997ef14980bfe0a488571ed}
+      \strng{bibnamehash}{71c7188b9997ef14980bfe0a488571ed}
+      \strng{authorbibnamehash}{71c7188b9997ef14980bfe0a488571ed}
+      \strng{authornamehash}{721c0b63d7e4e431f2d191598390847b}
+      \strng{authorfullhash}{71c7188b9997ef14980bfe0a488571ed}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proc. IEEE Int. Conf. Comp. Vis.}
+      \field{title}{Vehicle Re-identification in Aerial Imagery : Dataset and Approach}
+      \field{year}{2019}
+    \endentry
+    \entry{UAV1}{article}{}
+      \name{author}{3}{}{%
+        {{hash=647b007eb6e111796544b2c203356ce9}{%
+           family={Saroinsong},
+           familyi={S\bibinitperiod},
+           given={Hardy\bibnamedelima S.},
+           giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=c30745ad043e71c8d28c2433151d9bf0}{%
+           family={Poekoel},
+           familyi={P\bibinitperiod},
+           given={Vecky\bibnamedelima C.},
+           giveni={V\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=7840ef897ea914722f34c1ca8f665737}{%
+           family={Manembu},
+           familyi={M\bibinitperiod},
+           given={Pinrolinvic\bibnamedelima D.},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{601678c8b2fbf030d11fb9ed38b28689}
+      \strng{fullhash}{601678c8b2fbf030d11fb9ed38b28689}
+      \strng{bibnamehash}{601678c8b2fbf030d11fb9ed38b28689}
+      \strng{authorbibnamehash}{601678c8b2fbf030d11fb9ed38b28689}
+      \strng{authornamehash}{601678c8b2fbf030d11fb9ed38b28689}
+      \strng{authorfullhash}{601678c8b2fbf030d11fb9ed38b28689}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{title}{Rancang Bangun Wahana Pesawat Tanpa Awak (Fixed Wing) Berbasis Ardupilot}
+      \field{year}{2018}
+      \verb{doi}
+      \verb https://doi.org/10.35793/jtek.7.1.2018.19195
+      \endverb
+    \endentry
+    \entry{UAV2}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b5bc7f9bf927415f2b6d943cc9aceb51}{%
+           family={Rizal},
+           familyi={R\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b5bc7f9bf927415f2b6d943cc9aceb51}
+      \strng{fullhash}{b5bc7f9bf927415f2b6d943cc9aceb51}
+      \strng{bibnamehash}{b5bc7f9bf927415f2b6d943cc9aceb51}
+      \strng{authorbibnamehash}{b5bc7f9bf927415f2b6d943cc9aceb51}
+      \strng{authornamehash}{b5bc7f9bf927415f2b6d943cc9aceb51}
+      \strng{authorfullhash}{b5bc7f9bf927415f2b6d943cc9aceb51}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{7}
+      \field{title}{Apa saja Manfaat dan Penggunaan Drone Populer pada Masa kini?}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://infokomputer.grid.id/read/122770429/apa-saja-manfaat-dan-penggunaan-drone-populer-pada-masa-kini?page=all
+      \endverb
+      \verb{url}
+      \verb https://infokomputer.grid.id/read/122770429/apa-saja-manfaat-dan-penggunaan-drone-populer-pada-masa-kini?page=all
+      \endverb
+    \endentry
+    \entry{GambarDeepLearning}{misc}{}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labeltitlesource}{title}
+      \field{title}{Deep Learning}
+      \verb{urlraw}
+      \verb https://www.databricks.com/de/glossary/deep-learning
+      \endverb
+      \verb{url}
+      \verb https://www.databricks.com/de/glossary/deep-learning
+      \endverb
+    \endentry
+    \entry{DeepLearningJWGPutra}{article}{}
+      \name{author}{1}{}{%
+        {{hash=92f835b31d4fb0ebf83be61a7d9bc5fb}{%
+           family={Putra},
+           familyi={P\bibinitperiod},
+           given={Jan\bibnamedelimb Wira\bibnamedelima Gotama},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{92f835b31d4fb0ebf83be61a7d9bc5fb}
+      \strng{fullhash}{92f835b31d4fb0ebf83be61a7d9bc5fb}
+      \strng{bibnamehash}{92f835b31d4fb0ebf83be61a7d9bc5fb}
+      \strng{authorbibnamehash}{92f835b31d4fb0ebf83be61a7d9bc5fb}
+      \strng{authornamehash}{92f835b31d4fb0ebf83be61a7d9bc5fb}
+      \strng{authorfullhash}{92f835b31d4fb0ebf83be61a7d9bc5fb}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{title}{Pengenalan Konsep Pembelajaran Mesin dan Deep Learning}
+      \field{year}{2020}
+    \endentry
+    \entry{CNNQolbiyatulLina}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{title}{Apa itu Convolutional Neural Network?}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://medium.com/@16611110/apa-itu-convolutional-neural-network-836f70b193a4
+      \endverb
+      \verb{url}
+      \verb https://medium.com/@16611110/apa-itu-convolutional-neural-network-836f70b193a4
+      \endverb
+    \endentry
+    \entry{GambarCNN}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{month}{7}
+      \field{title}{Project Idea | Cat vs Dog Image Classifier using CNN implemented using Keras}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.geeksforgeeks.org/project-idea-cat-vs-dog-image-classifier-using-cnn-implemented-using-keras/
+      \endverb
+      \verb{url}
+      \verb https://www.geeksforgeeks.org/project-idea-cat-vs-dog-image-classifier-using-cnn-implemented-using-keras/
+      \endverb
+    \endentry
+    \entry{CNN}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=0862d7356fbfc895777e67e8c0581515}{%
+           family={Bezdan},
+           familyi={B\bibinitperiod},
+           given={Timea},
+           giveni={T\bibinitperiod}}}%
+        {{hash=f42009c9f7ce36e37b61c76cf3fff6cd}{%
+           family={Bacanin},
+           familyi={B\bibinitperiod},
+           given={Nebojsa},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{6dd014cdad50dfc6f22c9ad8351387f9}
+      \strng{fullhash}{6dd014cdad50dfc6f22c9ad8351387f9}
+      \strng{bibnamehash}{6dd014cdad50dfc6f22c9ad8351387f9}
+      \strng{authorbibnamehash}{6dd014cdad50dfc6f22c9ad8351387f9}
+      \strng{authornamehash}{6dd014cdad50dfc6f22c9ad8351387f9}
+      \strng{authorfullhash}{6dd014cdad50dfc6f22c9ad8351387f9}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{01}
+      \field{title}{Convolutional Neural Network Layers and Architectures}
+      \field{year}{2019}
+      \field{pages}{445\bibrangedash 451}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.15308/Sinteza-2019-445-451
+      \endverb
+    \endentry
+    \entry{VRAIDatasetGithub}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{title}{The VRAI Vehicle Re-identification Dataset}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://github.com/JiaoBL1234/VRAI-Dataset
+      \endverb
+      \verb{url}
+      \verb https://github.com/JiaoBL1234/VRAI-Dataset
+      \endverb
+    \endentry
+    \entry{GoogleColab}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{title}{Google Colaboratory frequently asked questions}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://research.google.com/colaboratory/faq.html
+      \endverb
+      \verb{url}
+      \verb https://research.google.com/colaboratory/faq.html
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

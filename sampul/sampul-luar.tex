@@ -1,0 +1,42 @@
+\AddToShipoutPictureBG*{
+  \AtPageLowerLeft{
+    % Ubah nilai berikut jika posisi horizontal background tidak sesuai
+    \hspace{-3.5mm}
+
+    % Ubah nilai berikut jika posisi vertikal background tidak sesuai
+    \raisebox{0mm}{
+      \includegraphics[width=\paperwidth,height=\paperheight]{sampul/gambar/sampul-luar.png}
+    }
+  }
+}
+
+% Menyembunyikan nomor halaman
+\thispagestyle{empty}
+
+% Pengaturan margin untuk menyesuaikan konten sampul
+\newgeometry{
+  top=60mm,
+  left=25mm,
+  right=30mm,
+  bottom=25mm
+}
+
+\begin{flushleft}
+  \begin{spacing}{1.5}
+    % Pemilihan font sans serif
+    \sffamily
+
+    % Pemilihan warna font putih
+    \color{white}
+
+    % Pemilihan font bold
+    \fontseries{bx}
+    \selectfont
+
+    \input{\covercontents}
+
+
+  \end{spacing}
+\end{flushleft}
+
+\restoregeometry
